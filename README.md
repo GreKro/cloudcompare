@@ -9,7 +9,6 @@ Installation
 ------------
 
 ``` r
-
 devtools::install_github("GreKro/cloudcompare") 
 ```
 
