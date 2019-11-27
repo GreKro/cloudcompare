@@ -18,11 +18,10 @@ The goal of cloudcompare package is to establishes an interface between R and Cl
 
 ## Installation
 
+``` r
+devtools::install_github("GreKro/cloudcompare") 
 
-
-<!-- ``` r -->
-<!-- install.packages("cloudcompare") -->
-<!-- ``` -->
+ ```
 
 ## Example
 

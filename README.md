@@ -8,8 +8,9 @@ The goal of cloudcompare package is to establishes an interface between R and Cl
 Installation
 ------------
 
-<!-- ``` r -->
-<!-- install.packages("cloudcompare") -->
-<!-- ``` -->
+\`\`\` r devtools::install\_github("GreKro/cloudcompare")
+
+\`\`\`
+
 Example
 -------
