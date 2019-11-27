@@ -1,10 +1,4 @@
 
-
-
-
-
-
-#' CC
 #' CC function run CloudCompare software
 #' @param cc_syntax - CloudCompare Command Line Mode syntax, character, output of cloudcompare package functions
 #' @return - nothing
@@ -15,7 +9,6 @@
 #' #' pc_files <- list.files('C://', pattern='.las$',full.names=T)
 #' CC(merge_clouds(files= pc_files))
 #' }
-
 #'
 #'
 CC <- function(cc_syntax){

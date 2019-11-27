@@ -1,5 +1,4 @@
 
-
 #' Set CloudCompare directory
 #'
 #' @param CCdir - character, directory to CloudCompare.exe file
