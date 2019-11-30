@@ -77,7 +77,7 @@ merge_clouds <- function(files, global_shift = F, global_shift_type= 'AUTO',c_ex
 
   if (global_shift == T){
 
-    s4= paste('-O -GLOBAL_SHIFT',global_shift_type, files,sep=' ')
+    s4= paste0('-O -GLOBAL_SHIFT ',global_shift_type,' "', files,'" ', collapse='')
 
   } else {
 

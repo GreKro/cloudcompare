@@ -1,7 +1,7 @@
 Package: cloudcompare
 Type: Package
 Title: R interface to CloudCompare command line mode
-Version: 0.1.0
+Version: 0.1.1
 Author: Grzegorz Krok <g.a.krok@gmail.com>
 Maintainer: Grzegorz Krok <g.a.krok@gmail.com>
 Description: cloudcompare package establishes an interface between R and CloudCompare software. It allows the user to access CloudCompare command line mode functionalities from within R.
